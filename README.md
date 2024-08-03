@@ -19,7 +19,7 @@ The server code is crafted with Java Spring Boot, providing a robust setup for:
 
 sh
 Copy code
-git clone https://github.com/your-username/ConsumerKafka.git
+git clone(https://github.com/angad0987/ConsumerKafka.git)
 Install Dependencies:
 Make sure Maven or Gradle is set up. Navigate to the project directory and run:
 
